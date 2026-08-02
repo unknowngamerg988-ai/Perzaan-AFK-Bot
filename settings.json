@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Bot for server",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "GamieMC.aternos.me",
-    "port": 35874,
+    "ip": "GamieBlock.aternos.me",
+    "port": 38834,
     "version": "1.21.1"
   },
   "position": {
